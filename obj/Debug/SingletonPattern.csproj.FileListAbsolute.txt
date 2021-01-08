@@ -1,0 +1,7 @@
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\quadrate\designpattern\singleton\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
